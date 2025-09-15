@@ -11,3 +11,5 @@ It takes **2D images, video, or live webcam input** and estimates 3D body joint 
 * **MediaPipe body tracking** via homuler’s Unity plugin
 * Real-time mapping of 3D joint estimations to a Mixamo skeleton
 * Retargeting handled with Unity’s **Animation Rigging package**
+
+Tags: Display, macOS, Windows
